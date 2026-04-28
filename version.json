@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "name": "WY-Aug",
-  "version": "0.814.0-wy.20260428035954",
-  "fileName": "WY-Aug.0.814.0-wy.20260428035954.vsix",
-  "downloadUrl": "https://github.com/kevin-kss/Augment-WY/releases/download/v0.814.0-wy.20260428035954/WY-Aug.0.814.0-wy.20260428035954.vsix",
-  "releaseUrl": "https://github.com/kevin-kss/Augment-WY/releases/tag/v0.814.0-wy.20260428035954",
-  "sha256": "47334fe37fd6762e914171e869fd2fe18e91d5a5c6a8272903a479802d6c8273",
+  "version": "0.814.0-wy.20260428044215",
+  "fileName": "WY-Aug.0.814.0-wy.20260428044215.vsix",
+  "downloadUrl": "https://github.com/kevin-kss/Augment-WY/releases/download/v0.814.0-wy.20260428044215/WY-Aug.0.814.0-wy.20260428044215.vsix",
+  "releaseUrl": "https://github.com/kevin-kss/Augment-WY/releases/tag/v0.814.0-wy.20260428044215",
+  "sha256": "01299f9ff0ef65afe65fe8426dc4181da9458e848e4979b3930ff96e6e6f225d",
   "notes": "WY-Aug update"
 }
